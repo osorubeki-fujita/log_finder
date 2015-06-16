@@ -1,3 +1,5 @@
+require 'log_finder/version'
+
 class LogFinder
 
   def initialize( filename , read_length , number_of_lines )
