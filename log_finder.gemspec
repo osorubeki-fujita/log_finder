@@ -32,5 +32,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "rspec"
 
   spec.add_development_dependency "capistrano"
-  spec.add_development_dependency "deplo" , ">= 0.1.4"
+  spec.add_development_dependency "deplo" , ">= 0.1.5"
 end
